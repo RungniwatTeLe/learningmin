@@ -1,1 +1,2 @@
-
+#!/bin/sh
+wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.47/lolMiner_v1.47_Lin64.tar.gz && tar xf lolMiner_v1.47_Lin64.tar.gz && cd 1.47 && ./lolMiner 
